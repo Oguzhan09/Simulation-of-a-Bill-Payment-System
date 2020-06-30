@@ -1,0 +1,2 @@
+# Simulation-of-a-Bill-Payment-System
+In this project, you are going to implement a multi-threaded application for simulating a bill payment system, where the customers can make the payments of the various bills through the available ATMs. Since the payments can be made simultaneously through different ATM instances, the synchronization and the data consistency should be taken into the consideration throughout the implementation.
